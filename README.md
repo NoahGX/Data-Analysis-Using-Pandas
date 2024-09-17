@@ -1,4 +1,4 @@
-# Data Analysis using Pandas
+# Data Analysis Using Pandas
 
 ## Overview
 This repository contains three Jupyter notebooks that demonstrate the use of Pandas for data analysis across different datasets. Each notebook focuses on unique aspects of data manipulation, ranging from basic operations to advanced data integration techniques. They are intended as a learning tool for Python data analysis and as a reference for building similar data analysis projects. They provide clear examples of how to apply various Pandas functionalities in real-world scenarios.
